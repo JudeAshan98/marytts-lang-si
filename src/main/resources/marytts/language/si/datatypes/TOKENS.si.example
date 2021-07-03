@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maryxml xmlns="http://mary.dfki.de/2002/MaryXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.5" xml:lang="si">
+  <p>
+    <s>
+      <t>මෙය</t>
+      <t>කොළඹ</t>
+      <t>විශ්වවිද්‍යාලීය</t>
+      <t>පරිගණක</t>
+      <t>අධ්‍යනායතනීය</t>
+      <t>භාෂා</t>
+      <t>තාක්ෂණ</t>
+      <t>පර්යේෂණ</t>
+      <t>විද්‍යාගාරයයි</t>
+    </s>
+  </p>
+</maryxml>
